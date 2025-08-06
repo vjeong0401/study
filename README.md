@@ -1,2 +1,2 @@
-# study
-basic Python and Data Science study
+# teaching materials
+basic Python and Data Science teaching materials for students
